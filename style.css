@@ -1,0 +1,24 @@
+
+body {
+    background-color: #01363f;
+
+    font-weight: bold;
+    padding: 48px;}
+
+    #registrationForm {
+        border: 6 px dotted rgba(75, 0, 0, 0.482);
+        padding: 59px;
+        background-color: rgb(147, 255, 230);
+
+    }
+
+
+    .heading {
+        background: rgb(247, 4, 234);
+        color: rgb(255, 231, 231);
+        text-align: center;
+        margin-bottom: 0px;
+        font-family: fantasy;
+        border-radius: 12px;
+        border-color: rgba(0, 188, 188, 0.751);
+    }
